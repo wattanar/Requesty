@@ -1,0 +1,22 @@
+{
+    "name": "wattanar/Requesty",
+    "type": "library",
+    "description": "Simple HTTP Request With PHP",
+    "keywords": ["php", "http", "request"],
+    "homepage": "https://github.com/wattanar/Requesty",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Wattana Ruengmucha",
+            "email": "iamwattanas@gmail.com",
+            "homepage": "https://wattana.me",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0"
+    },
+    "autoload": {
+        "classmap": ["src/Requesty.php"]
+    }
+}

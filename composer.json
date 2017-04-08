@@ -1,9 +1,9 @@
 {
-    "name": "wattanar/Requesty",
+    "name": "wattanar/requesty",
     "type": "library",
     "description": "Simple HTTP Request With PHP",
     "keywords": ["php", "http", "request"],
-    "homepage": "https://github.com/wattanar/Requesty",
+    "homepage": "https://github.com/wattanar/requesty",
     "license": "MIT",
     "authors": [
         {
